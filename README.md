@@ -35,6 +35,8 @@ provided. The UI is styled for a clean and modern look.
 The app combines 3D graphics, animations, and audio to create an interactive, speaking avatar
 experience.
 
+Code for the backend - https://github.com/Coderandme/News_Reporter_Bot_Backend
+
 **Backend**
 
 The main file that does the work in the frontend is tts.js -
