@@ -1,6 +1,6 @@
 The project has been created using the following technologies:
 
-**1. React.js**: This is likely being used as the framework for building the user interface and
+**1. React.js**: This is being used as the framework for building the user interface and
 managing the application's state, including the rendering of the 3D avatar.
 **2. Three.js:** This library is being used to render 3D graphics in the browser, which would include
 the digital avatar and its animations.
